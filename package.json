@@ -1,0 +1,17 @@
+{
+  "name": "stream-adventure",
+  "version": "0.0.0",
+  "description": "Stream Adventure (http://nodeschool.io)",
+  "license": "BSD",
+  "dependencies": {
+    "split": "~0.2.10",
+    "through": "~2.3.4",
+    "concat-stream": "~1.0.1",
+    "request": "~2.27.0",
+    "websocket-stream": "~0.3.2",
+    "trumpet": "~1.6.2",
+    "duplexer": "~0.1.1",
+    "stream-combiner": "0.0.4",
+    "tar": "~0.1.19"
+  }
+}
